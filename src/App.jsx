@@ -248,7 +248,7 @@ async function extractVocabFromImage(base64Image, mediaType) {
     method:"POST",
     headers:{
       "Content-Type":"application/json",
-      "x-api-key":"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",
+      "x-api-key":"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",
       "anthropic-version":"2023-06-01",
       "anthropic-dangerous-direct-browser-access":"true",
     },
